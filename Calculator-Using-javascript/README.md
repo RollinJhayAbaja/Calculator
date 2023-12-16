@@ -1,2 +1,2 @@
 # Calculator-Using-JS
-Basic Calculator application made with HTML,CSS &amp; Plane JavaScript
+Basic Calculator application made with HTML,CSS JavaScript
